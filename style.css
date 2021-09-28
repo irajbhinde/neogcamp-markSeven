@@ -9,13 +9,10 @@ html {
     font-family: 'Roboto Slab', serif;
   }
 
-  #navi #page-name {
-    font-size: large;
-    text-align: center;
-    color: white;
-    padding: 1rem;
-    
-}
+  h1{
+      text-align: center;
+      color: white;
+  }
 
 textarea {
     box-sizing: border-box;
